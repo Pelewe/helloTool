@@ -15,5 +15,8 @@ public class helooWorld {
 	private static void displayGreeting() {
 		System.out.println("Hello Happy SALES PEOPLE");
 		System.out.println("THIS APP SHOWS SALES DATA");
+	
+		System.out.println("---------------------------------------");
+		System.out.println("Test 1");
 	}
 }
